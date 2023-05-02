@@ -1,0 +1,7 @@
+StoreInventory is a Java program that demonstrates the use of object-oriented programming concepts to manage a store's inventory. The program creates and displays items in three ways: separately, using an array, and using a collection.
+
+The Item class is used to represent the store's products, and it has several constructors to create new objects. The class also keeps track of a unique identifier for each item, both static and non-static, and has a method to display information about the item.
+
+The program also includes an ExpirationDate class that can be used to track the expiration date of products.
+
+This program can be used as a starting point for developing a more sophisticated store inventory management system.
